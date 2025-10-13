@@ -1,8 +1,8 @@
 .contentIframeClass {
 	width: 100%;
 	height: 100%;
-	position: absolute;
 	border: none;
+	position: absolute;
 }
 .dummyIFrameClass {
 	display: none;
@@ -23,5 +23,5 @@
 }
 html, body {
 	margin: 0;
-	overflow: hidden
+	overflow: hidden;
 }
